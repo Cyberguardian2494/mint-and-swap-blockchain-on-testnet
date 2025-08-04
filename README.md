@@ -1,4 +1,4 @@
-# mint-and-swap-blockchain-on-testnet
+# mint-and-swap-Tokens-on-Ethereum-testnet-blockchain
 
 Welcome to the ACK–MSD Token Swap project — a hands-on blockchain learning initiative focused on smart contract development, token creation, and decentralized asset exchange on the Ethereum Sepolia testnet.
 
