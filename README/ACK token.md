@@ -36,7 +36,7 @@ For a detailed walkthrough, see [`guides/minting-ack.md`](guides/minting-ack.md)
 ### 1. 🔐 MetaMask Setup
 - Installed MetaMask browser extension
 - Connected to the **Sepolia testnet**
-- Acquired **sETH** via [Sepolia Faucet](https://sepoliafaucet.com) for gas fees
+- Acquired **sETH** via [Sepolia Faucet](https://sepolia-faucet.pk910.de/?utm_source=ghost#/) for gas fees
 
 ### 2. 🧪 Token Development in Remix IDE
 - Opened [Remix IDE](https://remix.ethereum.org)
