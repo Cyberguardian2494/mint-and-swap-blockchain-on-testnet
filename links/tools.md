@@ -1,6 +1,6 @@
-# 🧰 Tools Used for ACK Token Minting
+# 🧰 Tools Used for Token Minting ans Swapping
 
-This section outlines the key tools and platforms used to mint the AnsonCryptoToken (ACK) on the Sepolia testnet. These tools support contract deployment, wallet interaction, and transaction verification.
+This section outlines the key tools and platforms used to mint and swap the AnsonCryptoToken (ACK) and MokeStabletoken (MSD) on the Sepolia testnet. These tools support contract deployment, wallet interaction, and transaction verification.
 
 ---
 
@@ -51,4 +51,25 @@ This section outlines the key tools and platforms used to mint the AnsonCryptoTo
 - **Usage:**
   - Extend ERC-20 functionality
   - Implement `Ownable`, `AccessControl`, and safe minting logic
+
+---
+
+## 🧰 Hardhat
+
+- **URL:** [https://hardhat.org](https://hardhat.org)
+- **Purpose:** Ethereum development environment for scripting, testing, and deploying smart contracts
+- **Used For:**  
+  - Initializing project structure  
+  - Writing and deploying `SwapACKtoMSD.sol`  
+  - Running scripts and testing swap logic in console
+
+---
+
+## 🌐 Infura
+
+- **URL:** [https://infura.io](https://infura.io)
+- **Purpose:** Ethereum infrastructure provider for RPC endpoints
+- **Used For:**  
+  - Connecting Hardhat to Sepolia via RPC  
+  - Deploying contracts from scripts
 
