@@ -1,4 +1,4 @@
-# 🧰 Tools Used for Token Minting ans Swapping
+# 🧰 Tools Used for Token Minting and Swapping
 
 This section outlines the key tools and platforms used to mint and swap the AnsonCryptoToken (ACK) and MokeStabletoken (MSD) on the Sepolia testnet. These tools support contract deployment, wallet interaction, and transaction verification.
 
