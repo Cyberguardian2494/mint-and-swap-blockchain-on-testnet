@@ -31,7 +31,7 @@ This project was designed to be modular, transparent, and reproducible. It serve
 
 ## 🛠️ Minting ACK: Process Blueprint
 
-For a detailed walkthrough, see [`guides/minting-ack.md`](guides/minting-ack.md). Here's a high-level summary:
+For a detailed walkthrough, see [guides](/guides/minting-ack.md). Here's a high-level summary:
 
 ### 1. 🔐 MetaMask Setup
 - Installed MetaMask browser extension
@@ -60,7 +60,7 @@ For a detailed walkthrough, see [`guides/minting-ack.md`](guides/minting-ack.md)
 
 ## 🔗 Tools & Resources
 
-See [`links/tools.md`](links/tools.md) for a full list of tools used in this project.
+See [`tools`](/links/tools.md) for a full list of tools used in this project.
 
 ---
 
